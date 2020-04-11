@@ -1,6 +1,0 @@
-[submodule "fast-style-transfer"]
-	path = fast-style-transfer
-	url = https://github.com/ajshedivy/fast-style-transfer.git
-[submodule "neural-style"]
-	path = neural-style
-	url = https://github.com/ajshedivy/neural-style.git
